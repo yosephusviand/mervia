@@ -253,6 +253,13 @@ defined('BASEPATH') OR exit('No direct script access allowed');
             </div>
 
             <div class="progress" data-aos="fade-down">
+              <span class="skill">Laravel <i class="val">70%</i></span>
+              <div class="progress-bar-wrap">
+                <div class="progress-bar" role="progressbar" aria-valuenow="70" aria-valuemin="0" aria-valuemax="100"></div>
+              </div>
+            </div>
+
+            <div class="progress" data-aos="fade-down">
               <span class="skill">CorelDraw <i class="val">70%</i></span>
               <div class="progress-bar-wrap">
                 <div class="progress-bar" role="progressbar" aria-valuenow="70" aria-valuemin="0" aria-valuemax="100"></div>
@@ -443,16 +450,16 @@ defined('BASEPATH') OR exit('No direct script access allowed');
             </div>
           </div>
 
-          <!-- <div class="col-lg-4 col-md-6 portfolio-item filter-app">
+          <div class="col-lg-4 col-md-6 portfolio-item filter-web">
             <div class="portfolio-wrap">
-              <img src="<?= base_url()?>assets/img/portfolio/portfolio-6.jpg" class="img-fluid" alt="">
+              <img src="<?= base_url()?>assets/img/portfolio/gaspol/homegaspol.png" class="img-fluid" alt="">
               <div class="portfolio-links">
-                <a href="<?= base_url()?>assets/img/portfolio/portfolio-6.jpg" data-gall="portfolioGallery" class="venobox" title="App 3"><i class="bx bx-plus"></i></a>
-                <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
+                <a href="<?= base_url()?>assets/img/portfolio/gaspol/homegaspol.jpg" data-gall="portfolioGallery" class="venobox" title="Web 3"><i class="bx bx-plus"></i></a>
+                <a href="<?= base_url()?>welcome/gaspol" title="More Details" target="_blank"><i class="bx bx-link"></i></a>
               </div>
             </div>
           </div>
- -->
+
           <!-- <div class="col-lg-4 col-md-6 portfolio-item filter-card">
             <div class="portfolio-wrap">
               <img src="<?= base_url()?>assets/img/portfolio/portfolio-7.jpg" class="img-fluid" alt="">
